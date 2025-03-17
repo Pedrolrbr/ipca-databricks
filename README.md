@@ -41,3 +41,39 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
 
   ✔️ Criar um relatório no Power BI Desktop
 
+
+## 📊 Sobre o Dashboard
+
+   O dashboard foi criado para fornecer uma visão clara da variação do IPCA ao longo do tempo, destacando tendências, médias e padrões. Ele inclui os seguintes elementos:
+
+## 1️⃣ KPIs Principais
+
+✔️ IPCA Ano Atual: Exibe o índice acumulado no ano atual.
+   
+✔️ Média IPCA Últimos 12 Meses: Apresenta a média mensal do IPCA no último ano.
+   
+✔️ Média IPCA Últimos 5 Anos: Mostra a média do IPCA nos últimos 5 anos.
+   
+✔️ Desvio Padrão do IPCA: Mede a volatilidade do índice ao longo do período analisado.
+
+## 2️⃣ Gráfico de Linha - Evolução do IPCA Anual
+
+   Exibe a evolução do IPCA acumulado ao longo dos meses para cada ano dos últimos 10 anos, permitindo comparações históricas e identificação de padrões sazonais.
+
+## 3️⃣ Filtros Interativos
+
+ ✔️ Período de Análise: Permite alternar entre diferentes períodos (Ano Atual, Últimos 3 Anos, Últimos 5 Anos, Últimos 10 Anos e Todos os Anos).
+   
+ ✔️ Seleção de Ano: Possibilita a escolha de um ano específico para análise detalhada.
+
+![image](https://github.com/user-attachments/assets/c0b18c6f-039b-4cf2-8689-57e1e9573289)
+
+## 📊 Tendências e Padrões
+
+✔️ Aumento Recente: O IPCA do ano atual está em 1,6, significativamente maior que o do ano anterior (1,08), representando um aumento de 48,1%.
+
+✔️ Médias de Longo Prazo: A média do IPCA dos últimos 5 anos (0,52) é ligeiramente maior do que a dos últimos 12 meses (0,45), indicando que o índice pode estar se estabilizando ou reduzindo no curto prazo.
+
+✔️ Tendência de Picos no 2º Semestre: Em diversos anos, o IPCA apresenta um crescimento mais acentuado entre junho e dezembro.
+
+✔️ 2024 e 2025 Abaixo da Média (até o momento): As linhas que representam esses anos estão posicionadas abaixo da média histórica.
