@@ -14,7 +14,9 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
 
 ## 🛠️ Tecnologias Utilizadas  
 
-- **Databricks**: Pipeline de Dados
+- **Databricks Community**: Criação Pipeline de Dados
+- **Python**: Linguagem utilizada para criação do código
+- **SQL**: Linguagem para gerenciamento do Banco de Dados
 - **Pyspark**: Processamento e tratamento dos Dados
 - **Power BI**: Análise e visualização de dados  
 
