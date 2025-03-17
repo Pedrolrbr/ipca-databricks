@@ -46,7 +46,7 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
 
    O dashboard foi criado para fornecer uma visão clara da variação do IPCA ao longo do tempo, destacando tendências, médias e padrões. Ele inclui os seguintes elementos:
 
-## 1️⃣ KPIs Principais
+## KPIs Principais
 
 ✔️ IPCA Ano Atual: Exibe o índice acumulado no ano atual.
    
@@ -56,11 +56,11 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
    
 ✔️ Desvio Padrão do IPCA: Mede a volatilidade do índice ao longo do período analisado.
 
-## 2️⃣ Gráfico de Linha - Evolução do IPCA Anual
+## Gráfico de Linha - Evolução do IPCA Anual
 
    Exibe a evolução do IPCA acumulado ao longo dos meses para cada ano dos últimos 10 anos, permitindo comparações históricas e identificação de padrões sazonais.
 
-## 3️⃣ Filtros Interativos
+## Filtros Interativos
 
  ✔️ Período de Análise: Permite alternar entre diferentes períodos (Ano Atual, Últimos 3 Anos, Últimos 5 Anos, Últimos 10 Anos e Todos os Anos).
    
