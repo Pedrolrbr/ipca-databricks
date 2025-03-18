@@ -22,26 +22,26 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
 
 ## 🔍 Escopo do Projeto  
 
-✔️ Criar um pipeline eficiente para ingestão e transformação dos dados do IPCA  
-✔️ Analisar a evolução do índice desde a fundação do Banco IP2CA  
-✔️ Construir visualizações interativas para facilitar a interpretação dos dados  
-✔️ Identificar padrões e tendências que possam impactar as decisões estratégicas do cliente  
+- Criar um pipeline eficiente para ingestão e transformação dos dados do IPCA  
+- Analisar a evolução do índice desde a fundação do Banco IP2CA  
+- Construir visualizações interativas para facilitar a interpretação dos dados  
+- Identificar padrões e tendências que possam impactar as decisões estratégicas do cliente  
 
 ## 📌 Requisitos
 
 ## Coleta de Dados
 
-   ✔️ Utilizar a API de Dados Abertos do Banco Central do Brasil para coletar os dados do IPCA dos últimos 20 anos.
-   ✔️ A documentação da API pode ser acessada em: [Banco Central - IPCA](https://dadosabertos.bcb.gov.br/dataset/10844-indice-de-precos-ao-consumidor-amplo-ipca---servicos/resource/c0980df7-ad92-47af-b71c-790825f4710a)
+  - Utilizar a API de Dados Abertos do Banco Central do Brasil para coletar os dados do IPCA dos últimos 20 anos.
+  - A documentação da API pode ser acessada em: [Banco Central - IPCA](https://dadosabertos.bcb.gov.br/dataset/10844-indice-de-precos-ao-consumidor-amplo-ipca---servicos/resource/c0980df7-ad92-47af-b71c-790825f4710a)
   
 ## Processamento e Armazenamento
 
-  ✔️ Criar um notebook no Databricks para processar os dados utilizando Python ou SQL.
-  ✔️ Armazenar os dados do IPCA e os resultados das análises em tabelas Delta Lake dentro do Databricks.
+  - Criar um notebook no Databricks para processar os dados utilizando Python ou SQL.
+  - Armazenar os dados do IPCA e os resultados das análises em tabelas Delta Lake dentro do Databricks.
   
 ## Análise e Visualização
 
-  ✔️ Criar um relatório no Power BI Desktop
+  - Criar um relatório no Power BI Desktop
 
 
 ## 📊 Sobre o Dashboard
@@ -50,13 +50,13 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
 
 ## KPIs Principais
 
-✔️ IPCA Ano Atual: Exibe o índice acumulado no ano atual.
+ - IPCA Ano Atual: Exibe o índice acumulado no ano atual.
    
-✔️ Média IPCA Últimos 12 Meses: Apresenta a média mensal do IPCA no último ano.
+ - Média IPCA Últimos 12 Meses: Apresenta a média mensal do IPCA no último ano.
    
-✔️ Média IPCA Últimos 5 Anos: Mostra a média do IPCA nos últimos 5 anos.
+ - Média IPCA Últimos 5 Anos: Mostra a média do IPCA nos últimos 5 anos.
    
-✔️ Desvio Padrão do IPCA: Mede a volatilidade do índice ao longo do período analisado.
+ - Desvio Padrão do IPCA: Mede a volatilidade do índice ao longo do período analisado.
 
 ## Gráfico de Linha - Evolução do IPCA Anual
 
@@ -64,9 +64,9 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
 
 ## Filtros Interativos
 
- ✔️ Período de Análise: Permite alternar entre diferentes períodos (Ano Atual, Últimos 3 Anos, Últimos 5 Anos, Últimos 10 Anos e Todos os Anos).
+ - Período de Análise: Permite alternar entre diferentes períodos (Ano Atual, Últimos 3 Anos, Últimos 5 Anos, Últimos 10 Anos e Todos os Anos).
    
- ✔️ Seleção de Ano: Possibilita a escolha de um ano específico para análise detalhada.
+ - Seleção de Ano: Possibilita a escolha de um ano específico para análise detalhada.
 
 ![image](https://github.com/user-attachments/assets/c0b18c6f-039b-4cf2-8689-57e1e9573289)
 
@@ -78,4 +78,3 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
 
 ✔️ Tendência de Picos no 2º Semestre: Em diversos anos, o IPCA apresenta um crescimento mais acentuado entre junho e dezembro.
 
-✔️ 2024 e 2025 Abaixo da Média (até o momento): As linhas que representam esses anos estão posicionadas abaixo da média histórica.
