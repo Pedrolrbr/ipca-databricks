@@ -68,13 +68,14 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
    
  - Seleção de Ano: Possibilita a escolha de um ano específico para análise detalhada.
 
-![image](https://github.com/user-attachments/assets/c0b18c6f-039b-4cf2-8689-57e1e9573289)
+![image](https://github.com/user-attachments/assets/f457cb90-b221-4a00-83cb-00d2f5b9dad8)
+
 
 ## 📊 Tendências e Padrões
 
 ✔️ Aumento Recente: O IPCA do ano atual está em 1,6, significativamente maior que o do ano anterior (1,08), representando um aumento de 48,1%.
 
-✔️ Médias de Longo Prazo: A média do IPCA dos últimos 5 anos (0,52) é ligeiramente maior do que a dos últimos 12 meses (0,45), indicando que o índice pode estar se estabilizando ou reduzindo no curto prazo. (Lembrete:  A média do IPCA dos últimos 5 anos Desconsidera os anos de 2020 e 2021, anos da Pandemia do Covid-19.)
+✔️ Desvio Padrão Relativamente Baixo (0,34) sugere que a variação do IPCA ao longo do tempo não tem sido tão extrema.
 
-✔️ Tendência de Picos no 2º Semestre: Em diversos anos, o IPCA apresenta um crescimento mais acentuado entre junho e dezembro.
+✔️ Os meses de Dezembro, Janeiro e Fevereiro são os meses onde o IPCA teve as maiores Altas. 
 
