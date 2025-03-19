@@ -75,7 +75,7 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
 
 ✔️ Aumento Recente: O IPCA do ano atual está em 1,6, significativamente maior que o do ano anterior (1,08), representando um aumento de 48,1%.
 
-✔️ Desvio Padrão Relativamente Baixo (0,34) sugere que a variação do IPCA ao longo do tempo não tem sido tão extrema.
+✔️ Desvio Padrão Relativamente Baixo (0,39) sugere que a variação do IPCA ao longo do tempo não tem sido tão extrema.
 
 ✔️ Os meses de Dezembro, Janeiro e Fevereiro são os meses onde o IPCA teve as maiores Altas. 
 
